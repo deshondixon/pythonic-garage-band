@@ -32,7 +32,7 @@
 - Use *pytest-watch* to test program.
 ---
 - Tests check that the musician class passed attributes to the Guitarist, Bassist, and Drummer class.
-- Fourteen test were created to insure functionality.
+- Fourteen test were performed to insure functionality.
 
 
 
