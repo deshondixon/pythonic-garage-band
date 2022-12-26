@@ -19,14 +19,6 @@
 
 ---
 
-## Run
-
-- Run test with:  
-*pytest-watch*
----
-- Run program with: 
-*python3.11 ./madlib_cli/madlib.py*
-
 ## Tests
 
 - Use *pytest-watch* to test program.
